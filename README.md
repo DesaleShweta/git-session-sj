@@ -1,2 +1,2 @@
 # git-session-sj
-first
+this is my first git respository
