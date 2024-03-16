@@ -1,1 +1,3 @@
 this is firsr file of my first repositiry...
+pull
+clone
